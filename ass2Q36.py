@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 #Title: Assignment2---Question36
 #Author:Merin
 #Version:1
